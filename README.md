@@ -37,6 +37,8 @@ I enjoy building software that is maintainable, secure and easy to extend. I am 
 ### Mobile
 
 * React Native
+* Flutter
+* Multiplatform Kotlin
 
 ### Development tools and practices
 
